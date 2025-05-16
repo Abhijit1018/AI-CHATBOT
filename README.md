@@ -13,4 +13,3 @@ OpenAI GPT / LLM Models (For AI-based responses)
 NLTK / spaCy (For natural language processing)
 Flask / FastAPI (For API and chatbot deployment)
 SpeechRecognition (Optional for voice support)
-it help in daily work
